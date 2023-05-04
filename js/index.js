@@ -1,1 +1,5 @@
-console.log ("YOOOOO")
+$(document).ready(function() {
+    $("#myButton").click(function() {
+      $("#myDiv").fadeOut();
+    });
+  });
