@@ -21,8 +21,7 @@ header p {
   padding: 100px 15px;
 }
 .content {
-  max-width: 25%;
-  max-height: 25%;
+  max-width: 300px;
   margin: 0 auto;
   padding: 50px;
   background-color: #FFFFFF;
