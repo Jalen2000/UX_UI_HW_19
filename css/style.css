@@ -3,7 +3,11 @@ body {
 }
 header {
   background-color: #373738;
-  padding: 15px;
+  padding: 20px;
+}
+.top{
+  width: 110px;
+  height: auto;
 }
 header ul {
   float: right;
@@ -11,7 +15,7 @@ header ul {
 }
 header li {
   display: inline-block;
-  padding: 0px 5px;
+  padding: 15px 5px;
 }
 header p {
   display: inline-block;
@@ -19,6 +23,10 @@ header p {
 .heroImg {
   background-color: #EBEBEB;
   padding: 100px 15px;
+}
+.test {
+  width: 200px;
+  height: auto;
 }
 .content {
   max-width: 300px;
@@ -53,6 +61,11 @@ footer li {
   font-size: 30px;
 }
 /* My UX Skills Section */
+.phone{
+  width: 100px;
+  height: 70px;
+}
+
 .flexContainer {
   display: flex;
   padding: 60px 30px;
@@ -62,9 +75,11 @@ footer li {
   padding: 25px;
 }
 
+
+
 /* My Work Section */
 .myWork {
-  padding: 60px 30px;
+  padding: 110px 110px;
   padding-top: 0;
   background-color: #EBEBEB;
 }
